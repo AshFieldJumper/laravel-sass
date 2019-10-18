@@ -63,7 +63,7 @@ Read the official docs for more.
 
 ## When deploying ...
 
-.. then make sure you comment out this line again: `SassCompiler::run("scss/", "css/");`. Future releases of this
+.. then make sure you comment out this line again: `SassCompiler::run("../resources/sass/", "css/");`. Future releases of this
 tool will have a development/production switch/recognizer.
 
 ## To use the very latest features of Sass:
@@ -75,15 +75,6 @@ newer version, so have a look here https://github.com/leafo/scssphp/releases and
 
 This tool uses the excellent [scssphp Sass compiler](http://leafo.net/scssphp/).
 scssphp supports the latest SCSS syntax (3.2.12).
-
-## Other projects
-
-- https://github.com/panique/huge (a framework with full login system behind)
-- https://github.com/panique/mini2 (a naked application on top of Slim)
-- https://github.com/panique/mini (a super-simple naked barebone application)
-- https://github.com/panique/php-sass (SASS compiling in pure PHP)
-- https://github.com/panique/php-long-polling (long-polling with PHP, extremely simple)
-- My blog DEV METAL: http://www.dev-metal.com
 
 ## License
 
