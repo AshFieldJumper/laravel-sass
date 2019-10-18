@@ -1,9 +1,9 @@
 {
-    "name": "Rickry/laravel-sass",
+    "name": "rickry/laravel-sass",
     "type": "library",
     "description": "Compiles your Sass .scss files to .css every time you run your app (in development)",
     "keywords": ["sass", "scss", "css"],
-    "homepage": "https://github.com/Rickry/laravel-sass",
+    "homepage": "https://github.com/rickry/laravel-sass",
     "license": "MIT",
     "authors": [
         {
@@ -13,8 +13,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/Rickry/laravel-sass/issues",
-        "source": "https://github.com/Rickry/laravel-sass"
+        "issues": "https://github.com/rickry/laravel-sass/issues",
+        "source": "https://github.com/rickry/laravel-sass"
     },
     "autoload": {
         "files": ["sass-compiler.php"]
